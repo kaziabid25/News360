@@ -1,10 +1,10 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:news360/article_view.dart';
-import 'package:news360/category.dart';
-import 'package:news360/helper/data.dart';
-import 'package:news360/helper/news.dart';
+import 'file:///C:/Users/USER/Desktop/470/Project/News360.-master/lib/view/article_view.dart';
+import 'file:///C:/Users/USER/Desktop/470/Project/News360.-master/lib/controller/category.dart';
+import 'file:///C:/Users/USER/Desktop/470/Project/News360.-master/lib/controller/data.dart';
+import 'file:///C:/Users/USER/Desktop/470/Project/News360.-master/lib/controller/news.dart';
 import 'package:news360/model/Category_model.dart';
 import 'package:news360/model/article_model.dart';
 import 'package:http/http.dart' as http;

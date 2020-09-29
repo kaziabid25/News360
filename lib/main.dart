@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:news360/home.dart';
+import 'file:///C:/Users/USER/Desktop/470/Project/News360.-master/lib/view/home.dart';
 
 void main() {
   runApp(MyApp());

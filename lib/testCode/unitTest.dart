@@ -1,9 +1,9 @@
 import 'package:news360/model/article_model.dart';
 
-import 'package:news360/category.dart';
+import 'file:///C:/Users/USER/Desktop/470/Project/News360.-master/lib/controller/category.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'dart:ui';
-import 'package:news360/home.dart';
+import 'file:///C:/Users/USER/Desktop/470/Project/News360.-master/lib/view/home.dart';
 
 void main(){
   test('Check the list is empty', (){

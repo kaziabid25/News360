@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:news360/article_view.dart';
-import 'package:news360/helper/news.dart';
+import 'file:///C:/Users/USER/Desktop/470/Project/News360.-master/lib/view/article_view.dart';
+import 'file:///C:/Users/USER/Desktop/470/Project/News360.-master/lib/controller/news.dart';
 import 'package:news360/model/article_model.dart';
 
 class CategoryNews extends StatefulWidget {
